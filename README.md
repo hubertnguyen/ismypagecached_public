@@ -1,2 +1,2 @@
-# ismysitecached_public
-A place to collaborate and discuss about ismysitecached.com
+# ismysitecached.com collaboration page
+Feel free to create Issues here.
