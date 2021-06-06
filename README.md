@@ -26,7 +26,7 @@ There are multiple places where page caching can happen, and the tool tries to d
 - Varnish
 ### CDN
 - Amazon Cloudfront 
-- Cloudflare
+- Cloudflare (+APO)
 - Fastly
 - QUIC.cloud
 - Generic Varnish-based CDNs
