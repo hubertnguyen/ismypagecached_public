@@ -17,7 +17,7 @@ There are multiple places where page caching can happen, and the tool tries to d
 - WP Fastest Cache
 - WP-Rocket
 - LiteSpeed Cache
-### web-server
+### Web server (Apache/NGINX)
 - Kinsta Cache
 - LiteSpeed cache
 - NINGX SRCache
@@ -26,7 +26,7 @@ There are multiple places where page caching can happen, and the tool tries to d
 - Siteground (needs testing)
 - Varnish
 - Wordpress.com
-### CDN
+### CDN (off-server)
 - Amazon Cloudfront 
 - Cloudflare (+APO)
 - Fastly
