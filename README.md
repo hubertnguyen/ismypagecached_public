@@ -23,7 +23,9 @@ There are multiple places where page caching can happen, and the tool tries to d
 - NINGX SRCache
 - NGINX x-proxy
 - Runcloud Cache
+- Siteground (needs testing)
 - Varnish
+- Wordpress.com
 ### CDN
 - Amazon Cloudfront 
 - Cloudflare (+APO)
