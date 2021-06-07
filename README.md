@@ -17,6 +17,7 @@ There are multiple places where page caching can happen, and the tool tries to d
 - WP Fastest Cache
 - WP-Rocket
 - LiteSpeed Cache
+- Nitropack
 ### Web server (Apache/NGINX)
 - Kinsta Cache
 - LiteSpeed cache
