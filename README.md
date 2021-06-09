@@ -13,20 +13,24 @@ When reporting an issue, we need:
 There are multiple places where page caching can happen, and the tool tries to differentiate between them, because there can be technical implications or flags from that.
 ### Plugin (PHP code)
 - Flying Press
+- LiteSpeed Cache
+- Nitropack
+- Swift Performance
 - W3 Total Cache
 - WP Fastest Cache
 - WP-Rocket
-- LiteSpeed Cache
-- Nitropack
+
 ### Web server (Apache/NGINX)
 - Kinsta Cache
 - LiteSpeed cache
 - NINGX SRCache
 - NGINX x-proxy
 - Runcloud Cache
+- Shopify
 - Siteground (needs testing)
 - Varnish
 - Wordpress.com
+
 ### CDN (off-server)
 - Amazon Cloudfront 
 - Cloudflare (+APO)
