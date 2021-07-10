@@ -1,7 +1,7 @@
 # Is My Site Cached (.com) Official Page
-[ismypagecached.com](http://ismypagecached.com/) detects your "page caching" configuration and current state. The goal: to save you a little bit of time 😇
+[ismypagecached.com](http://ismypagecached.com/) detects your "page caching" configuration and current state. The goal: to save you a little bit of time and keep [developers focused](https://ismypagecached.com/developer-productivity-ismypagecached/) 😇
 
-We try supporting as many page-caching systems as can be detected. Feel free to report issues and add feature requests. 
+We try supporting as many page-caching systems as can be detected, [across multiple layers](https://ismypagecached.com/what-are-page-caching-layers/). Feel free to report issues and add feature requests. 
 When reporting an issue, we need:
 1. Description of the issue
 2. Link for testing
@@ -29,7 +29,7 @@ There are multiple places where page caching can happen, and the tool tries to d
 - Shopify
 - Siteground (needs testing)
 - Varnish
-- Wordpress.com
+- Wordpress.com (Batcache)
 
 ### CDN (off-server)
 - Amazon Cloudfront 
