@@ -17,6 +17,7 @@ There are multiple places where page caching can happen, and the tool tries to d
 - Nitropack
 - Swift Performance
 - W3 Total Cache
+- WP Engine
 - WP Fastest Cache
 - WP-Rocket
 
